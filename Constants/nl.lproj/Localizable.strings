@@ -1,0 +1,132 @@
+"dateTimeK" = "Date & Time";
+"serviceK" = "Service";
+"personalK" = "Personal";
+"vidCallK" = "Video Call";
+"addressK" = "Address with zip code";
+"wLangK" = "Which(Language) TI";
+"durationK" = "Duration";
+"organisK" = "Organization Name";
+"categK" = "Category";
+"swornIK" = "Do you need a sworn interpreter?";
+"swornKey" = "Are you a sworn Interpreter?";
+"yesK" = "Yes";
+"noK" = "No";
+"nContPK" = "Name of the contact person";
+"conversMK" = "Name of the conversation manager";
+"emailK" = "Email";
+"teleNoK" = "Telephone number";
+"caseK" = "Your case";
+"sourLK" = "Source language";
+"destLK" = "Destination language";
+"jobDscK" = "Job description";
+"manyPgesK" = "How many pages?";
+"manyWrdsK" = "How many words?";
+"needStmpK" = "Need an stamp?";
+"addDocK" = "Add document";
+"interK" = "Interpreter";
+"transK" = "Translator";
+"bothK" = "Both";
+"jobCK" = "Job Creator";
+"meetingPK" = "Meeting participants";
+"assignedJbK" = "You have assigned a job";
+"cancelJbK" = "cancelled a job";
+"jobReqK" = "You have a new job request";
+"jobCompleteK" = "You have completed a job";
+"jobaccepted" = "accepted a job";
+"profileaccepted" = "Your profile has been approved";
+"profilerejected" = "Your profile has been rejected";
+"jobrejected" = "rejected a job.";
+"dscK"  = "Description";
+"modeK" = "Mode";
+"priceK" = "Price";
+"dateK" = "Date";
+"locK" = "Location";
+"langK" = "Language";
+"contPerK" = "Contact Person";
+"remarkK" = "Remarks";
+"jbNumK" = "Job Number";
+"statusK" = "Status";
+"postK" = "Posted on";
+"passportK" = "Passport";
+"idProofK" = "ID Proof";
+"drivingLK" = "Driving License";
+"deadlK" = "Deadline";
+"delAddK" = "Delivery Address";
+"SignedInSucKey"  =  "Logged in successfully.";
+"SignedOutSucKey" = "Logged out successfully.";
+"SignOutKey" = "Logout";
+"signOutConfirmKey" = "Are you sure you want to logout ?";
+"OKKey" = "OK";
+"CancelKey" = "Cancel";
+"NoInternetKey"  =  "No Internet. Please check your Internet connection.";
+"InternetconKey"  = "Internet connected.";
+"LocationKey"  =     "Location" ;       // Plaats
+"signOutConfirmKey"  = "Are you sure you want to sign out ?";
+"SomeWrongKey"  = "Something went wrong.";
+"enableGPSKey"  =  "Please enable your GPS.";
+"userPermKey"  =  "This feature requires user permissions.";
+"grantPermKey" =   "Please grant permissions manually from setting.";
+"updateProfPicKey"  =  "Select any to update profile picture.";
+"CameraKey"  =  "Camera";
+"GalleryKey" =  "Gallery";
+"PriceKey"  = "Price";
+"NoDataKey"  =  "No data found.";
+"SetdateKey" =   "Datum instellen" ; // Datum instellen
+"T&CandPrivacyKey"  =  "Clicking Sign In means that you agree to the";
+"T&CKey"   = "Terms & Conditions";
+"PPolicyKey"  =  "Privacy Policy";
+"dateAndTimeKey"   = "Please select both date and time";
+"AllowKey" = "Allow";
+"IMPORTANTKey" = "IMPORTANT";
+"NotificationKey" = "Notification access required";
+"SettingsKey" = "Settings";
+"LocPermKey" = "Location Permission Required";
+"AndKey" = "and";
+"SelDateKey" =  "Please select date";
+"SelTimeKey" =  "Please select time";
+"NotReachNotifyKey" = "Could not start reachability notifier";
+"optionKey" = "Please choose an option";
+"ProfileKey" =  "Profile";
+"PhoneNumberKey"  = "Phone Number";
+"HomeKey"    = "Home";
+"calendarKey" = "Calendar";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"selectLangErrKey" = "Please select both languages";
+"docErrKey" = "Please upload all required documents";

@@ -1,0 +1,359 @@
+//HomeViewController
+"homeKey"    = "Home";
+"noJobKey" = "No job found.";
+"cancelledKey" = "Cancelled";
+"cancelKey" = "Cancel";
+"completedKey" = "Completed";
+"NoDataKey"  =  "No data found.";
+"credCrdFrstKey" = "Please add credit card first.";
+
+
+//RegisterViewController
+"registerK" = "Register";
+"nameKey" = "Name";
+"phoneKey" = "Phone";
+"emailKey" = "Email";
+"passwordKey" = "Password";
+"invalidNK" = "Invalid name.";
+"invalidEK" = "Invalid email.";
+
+
+//PostJobViewController
+"postJobK" = "Post Job";
+"createIntrJobKey" = "Create an interpreter job";
+"dateTimeK" = "Date & Time";
+"serviceK" = "Service";
+"personalK" = "Personal";
+"vidCallK" = "Video call";
+"telephnicK" = "Telephonic";
+"addressK" = "Address with zip code";
+"durationK" = "Duration";
+"organisK" = "Organization name";
+"categK" = "Category";
+"swornIK" = "Do you need a sworn interpreter?";
+"swornIkey" = "Need sworn interpreter?";
+"yesK" = "Yes";
+"noK" = "No";
+"nContPK" = "Name of the contact person";
+"conversMK" = "Name of the conversation manager";
+"emailK" = "Email";
+"teleNoK" = "Telephone number";
+"sourLK" = "Source language";
+"destLK" = "Destination language";
+"jobDscK" = "Job description";
+"createtransJobKey" = "Create a translator job";
+"deadlK" = "Deadline";
+"delAddK" = "Delivery address";
+"manyPgesK" = "How many pages?";
+"pagesK" = "Pages";
+"manyWrdsK" = "How many words?";
+"wordsK" = "Words";
+"needStmpK" = "Need a stamp?";
+"allFieldsManK" = "All fields are mandatory.";
+"specifyDurationKey" = "Please specify duration.";
+"ntrNoWrdsPgsKey" = "Please enter number of words or pages.";
+"pgsWrds>0Key" = "Pages and words should be greater than 0.";
+"teleNo9Key" = "Telephone no should be greater than or equal to 9 digits.";
+"DoneKey" = "Done";
+
+
+
+//OTPViewController
+"otpK" = "OTP";
+"enterOTPKey" = "Please enter an OTP.";
+"notMatchOTPKey" = "OTP does not match.";
+"codeSntToKey" = "Enter code sent to ";
+"notGetCodeKey" = "Didn't get code?";
+"resndKey" = "Resend";
+"resendIn" = "Resend in ";
+
+
+//RoleViewController
+"roleK" = "Role";
+"registeringKey" = "Registering as";
+"interK" = "Interpreter";
+"transK" = "Translator";
+"transNIntrKey" = "Translator and Interpreter";
+"jobCK" = "Job Creator";
+"meetingPK" = "Meeting participants";
+"sourceLangFrstKey" = "Please choose source language first.";
+"userCretedKey" = "User created successfully.";
+"selectLangK" = "Select Language";
+"slctFrmLngK" = "Select from language";
+"slctToLngK" = "Select to language";
+"selectLangErrKey" = "Please select both languages";
+
+
+//VerifyNumViewController
+"verifyNuK" = "Verify Number";
+"PhoneNumberKey"  = "Phone Number";
+"pckCntryK" = "Pick Country";
+"phNoBlnkK" = "Phone number can't be blank.";
+"phTenDigiK" = "Phone number should be of 10 digit.";
+
+
+//UploadDocViewController
+"uploadDocK" = "Upload Document";
+"docK" = "Documents photos";
+"addDocK" = "Add document";
+"docErrKey" = "Please upload all required documents";
+"attchDocsKey" = "Please attach your essential documents";
+
+
+//NotificationViewController
+"notifyK" = "Notification";
+"assignedJbK" = "You have assigned a job.";
+"cancelJbK" = "cancelled a job.";
+"jobReqK" = "You have a new job request.";
+"jobCompleteK" = "You have completed a job.";
+"jobaccepted" = "accepted a job.";
+"profileaccepted" = "Your profile has been approved";
+"profilerejected" = "Your profile has been rejected";
+"jobrejected" = "rejected a job.";
+"noNotifictnKey" = "No notifications to show.";
+
+
+//ProfileViewController
+"profileK" = "Profile";
+"SignOutKey" = "Logout";
+"OKKey" = "Ok";
+"CancelKey" = "Cancel";
+"profileUpdatedKey" = "Profile updated successfully.";
+"updateKey" = "Update";
+"chngeRoleKey" = "Change Role";
+"pricePrHrKey" = "Price per hour";
+"asAnIntrprtrKey" = "As an Interpreter";
+"asATranslatorKey" = "As a Translator";
+"prWrdPriceKey" = "Per word price";
+"chngRoleLangKey" = "Change Role/Language";
+"swornKey" = "Are you a sworn Interpreter?";
+
+
+//AddressViewController
+"addressKey" = "Address";
+"addLine1Key" = "Address Line 1";
+"addLine2Key" = "Address Line 2";
+"cityKey" = "City";
+"stateKey" = "State";
+"zipKey" = "Zip";
+"countryKey" = "Country";
+"currntLocKey" = "Use my current Location";
+"notLocationKey" = "We are not able to identify this address.";
+
+
+
+//JobDetailViewController
+"jobDetK" = "Job Detail";
+"dscK"  = "Description";
+"modeK" = "Mode";
+"priceK" = "Price";
+"dateK" = "Date";
+"locK" = "Location";
+"langK" = "Language";
+"contPerK" = "Contact person";
+"remarkK" = "Remarks";
+"jbNumK" = "Job number";
+"statusK" = "Status";
+"postK" = "Posted on";
+"acceptedByKey" = "Accepted by";
+"PriceKey"  = "Price";
+"urlCpyKey"  = "Copied";
+"accptKey" = "Accept";
+"rjctKey" = "Reject";
+"shareKey" = "Share";
+"copyKey" = "Copy";
+"rjctedKey" = "Rejected";
+"completeJbKey" = "Complete Job";
+"finalBillKey" = "Final Bill";
+"callDurationAftrComptlngJbKey" = "Call duration after completing job";
+
+
+//"uploadTransDocKey" = "Upload translated documents";
+"seeTransDocKey" = "See Translated Documents";
+"subjectKey" = "Subject";
+"pinToStrtMeetngKey" = "Your pin to start meeting is";
+
+
+//SelectLangViewController
+"langsK" = "Select Language";
+
+
+//CalendarViewController
+"calendarKey" = "Calendar";
+
+
+//PaymentViewController
+"paymentKey" = "Card Details";
+"invalidDK" = "Invalid date.";
+"cardAddedKey" = "Card added successfully.";
+"addYrCrdKey" = "Add Your Card";
+"entrCrdInfoKey" = "Enter your card information.";
+
+
+//PaymentHistoryViewController
+"payHistKey" = "Transaction History";
+"histryDtlsKey" = "Your History Details";
+"noHisFoundKey" = "No History Found.";
+
+
+//CardDetailsViewController
+"cardListKey" = "Card Listing";
+"removeKey" = "Remove";
+"cardKey" = "Card";
+"creditCrdKey" = "Credit Card";
+"noCrditCrdKey" = "No Credit Card Details Found.";
+"defaultCardKey" = "Default Credit Card";
+"defaultCardMsgKey" = "Do you want to make this card as default?";
+"removeCardKey" = "Remove Credit Card";
+"removeCardMsgKey" = "Do you want to remove this card?";
+"defaultCrdKey" = "Default Card";
+
+
+
+
+//OtherViewController
+"otherkey"   = "Other";
+"paymntDetailsKey" = "Payment Details";
+"paymntHistoryKey" = "View Payment History";
+"creditCardsKey" = "View Credit Cards";
+
+
+//CalculateViewController
+"calDurationKey" = "Calculate Duration";
+"strtTmeKey" = "Start Time";
+"endTmeKey" = "End Time";
+"waitTmeKey" = "Waiting Time";
+"callDurKey" = "Call Duration";
+"nxtKey" = "Next";
+"strtTmeFrstKey" = "Please select start time first.";
+"endTmeGrtrStrtKey" = "End time should be greater than start time.";
+
+
+//TermsViewController
+"tnCKey" = "Terms & Conditions";
+"agreeKey" = "Agree";
+
+
+//AccountDetailController
+"accountKey" = "Account Details";
+"bankAccountAddedKey" = "Bank account added successfully.";
+"swiftNoKey" = "Swift Number";
+"taxIDKey" = "Tax ID";
+"accountHolderKey" = "Account Holder";
+"bnkAccountKey" = "Bank Account Number";
+"saveKey" = "Save";
+
+
+//SignatureViewController
+"signatureKey" = "Signature";
+"toSubmitKey" = "Please sign below to submit";
+"clearKey" = "Clear";
+"sgnTSubmitKey" = "Please sign to submit.";
+"jbCmpltdKey" = "Job completed successfully.";
+
+
+//TranslatorDocViewController
+"uploadedDocK" = "Uploaded Document";
+"transUploadedKey" = "Uploaded Translated Documents";
+"transUploadKey" = "Upload Translated Documents";
+"pagesNoKey" = "Total no. of pages";
+"wordsNoKey" = "Total no. of words";
+"afterJbCompltnKey" = "After Job Completion";
+"docToBTransKey" = "Documents to be Translated:";
+"pageGreterThan0Key" = "Page no. should be greater than 0.";
+"wordGreterThan0Key" = "Word no. should be greater than 0.";
+
+
+//CategoryViewController
+"categoryKey" = "Select Category";
+
+
+//ApprovalPViewController
+"approvalPendngKey" = "Approval Pending";
+"dscforApprvlKey" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.";
+
+//DocRejectViewController
+"docRjctedKey" = "Document Rejected";
+"uploadDocAgainKey" = "Upload Documents Again";
+
+
+
+//Common messages
+"PPolicyKey"  =  "Privacy Policy";
+"AllowKey" = "Allow";
+"SettingsKey" = "Settings";
+"SignedInSucKey"  =  "Logged in successfully.";
+"SignedOutSucKey" = "Logged out successfully.";
+"signOutConfirmKey" = "Are you sure you want to logout ?";
+"NoInternetKey"  =  "No Internet. Please check your Internet connection.";
+"InternetconKey"  = "Internet connected.";
+"enableGPSKey"  =  "Please enable your GPS.";
+"userPermKey"  =  "This feature requires user permissions.";
+"grantPermKey" =   "Please grant permissions manually from setting.";
+"NotReachNotifyKey" = "Could not start reachability notifier";
+"LocPermKey" = "Location permission Required";
+"notEnabldLocKey" = "Your device location services are not enabled.";
+"NotificationKey" = "Notification access required";
+
+
+//Picking Photo
+"cameraKey"  =  "Camera";
+"allwCameraKey"  =  "Allow Camera";
+"choseImgKey" = "Choose Image";
+"choseExstngImgKey" = "Choose existing photo";
+"newPhotoKey" = "Take new photo";
+"importntKey" = "Important";
+"libryAccessReqKey" = "Library access required for picking up photos!";
+"allwLibryKey" = "Allow Library";
+"cameraAccessReqKey" = "Camera access required for capturing photos!";
+"GalleryKey" =  "Gallery";
+
+
+//AWS
+"errInUploadKey" = "Error found in uploading.";
+
+
+//Common Texts
+
+"minsKey" = "mins";
+"hoursKey" = "Hours";
+"mintesKey" = "Minutes";
+"hourKey" = "Hour";
+"minteKey" = "Minute";
+"documentKey" = "Document";
+"perHrKey" = "per hour";
+"meetngLnkKey" = "Meeting link";
+"exprsKey" = "Expires";
+"editJobKey"   = "Edit Job";
+
+
+//Api error msg
+"SomeWrongKey"  = "Something went wrong.";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
